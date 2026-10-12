@@ -95,7 +95,8 @@ Issues
 -
 - cover dont work well
 - some guns save as others
-- all lasers or nit accurate 
+- all lasers or nit accurate
+- if you start a level high from thr ground Hold right stick click (stick centred) 1.2 s ... re-centre the view
 
 LICENSES
 -
